@@ -3,10 +3,8 @@ var pen = "reynolds";
 var penDescription =
   "i am using a pen which is cost of 100/- and the name of the pen is " + pen;
 
-var penDescription1 =
-  "i am using a pen which is cost of 100/- and the name of the pen is " + pen;
+var mobileNumber = "999 123 456";
+console.log(mobileNumber);
 
-var penDescription2 =
-  "i am using a pen which is cost of 100/- and the name of the pen is " + pen;
-
-console.log("penDescription", penDescription1);
+var check = "got the result...!!!";
+console.log(check);
