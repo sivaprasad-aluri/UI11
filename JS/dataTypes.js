@@ -1,4 +1,4 @@
-// primary Data Types
+// primary Data Types / primitive Data Types
 
 /*
     strings,

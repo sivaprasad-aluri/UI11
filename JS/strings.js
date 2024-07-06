@@ -21,3 +21,9 @@
 "orange";
 
 "orange";
+
+var test = "";
+var test1 = "      ";
+var test2 = "1312312312312312312";
+var test3 = "!!@#!@#!@#!@";
+var userName = "test";

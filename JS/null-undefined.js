@@ -4,6 +4,11 @@
 
 // interview: Difference between null & undefined?
 
-var test = null;
+var nullValue = null;
 
-console.log(test);
+var test = null;
+// console.log(test);
+
+var testVar;
+
+console.log(testVar);
